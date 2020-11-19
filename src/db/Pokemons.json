@@ -1,0 +1,47 @@
+[
+    {
+        "name": "pikachu",
+        "number": 1,
+        "type":[
+            { "name": "Electrico", "strongAgainst": "Agua", "weakAgainst":"Tierra"}
+        ],
+        "img": "https://i.pinimg.com/736x/dc/ab/b7/dcabb7fbb2f763d680d20a3d228cc6f9.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Bulbasaur",
+        "type": [
+            { "name": "Planta", "strongAgainst": "Agua", "weakAgainst": "Fuego" }
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+        "name": "Onix",
+        "number": 3,
+        "type":[
+            { "name": "Tierra", "strongAgainst": "Electrico", "weakAgainst":"Planta"}
+        ],
+        "img": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b2/latest/20141214194849/Onix.png/200px-Onix.png"
+
+    },
+    {
+        "name": "psyduck",
+        "number": 3,
+        "type":[
+            { "name": "Agua", "strongAgainst": "Fuego", "weakAgainst":"Tierra"}
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
+
+    },
+    {
+        "name": "chimchar",
+        "number": 3,
+        "type":[
+            { "name": "Fuego", "strongAgainst": "Planta", "weakAgainst":"Agua"}
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/390.png"
+
+    }
+
+]
